@@ -1,0 +1,7 @@
+{
+  "name": "RapidosCar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
